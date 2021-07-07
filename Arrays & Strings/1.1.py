@@ -31,6 +31,4 @@ print(find_unique_string("AWsa"))
 
 # test case 4
 
-# test case 2
-
 print(find_unique_string("  "))
