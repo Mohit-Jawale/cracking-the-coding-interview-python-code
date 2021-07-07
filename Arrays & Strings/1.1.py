@@ -18,4 +18,23 @@ def find_unique_string(str):
 
 #test case 1
 
-print(find_unique_string(""))
+print(find_unique_string("ased34$"))
+
+#test case 2
+
+print(find_unique_string("ased34$12212"))
+
+
+#test case 3
+
+print(find_unique_string("AWsa"))
+
+#test case 4
+
+#test case 2
+
+print(find_unique_string("  "))
+
+
+
+
